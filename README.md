@@ -4,6 +4,8 @@ This is a simple dice game where players take turns rolling a dice to accumulate
 
 ## Game Rules
 
+![Pig Game Flowchart](https://github.com/xue-bin/piggame/blob/main/PiggameFlowchart.drawio.png?raw=true)
+
 1. The game is played by two players, who take turns rolling a six-sided dice.
 2. On each turn, a player rolls the dice and accumulates points based on the number rolled.
    - If the player rolls a 1, their turn ends, and they lose all the points accumulated in that turn.
